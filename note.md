@@ -8,3 +8,12 @@
 
 - MOVE <apa nak isi> TO <nama variable>
 - untuk fill varibale dengan data
+
+- ZEROS
+- fill values with zero digit
+
+- SPACE
+- isi sample data with spaces
+
+- QUOTE
+- isi sample dengan quote ""
