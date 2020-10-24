@@ -51,13 +51,6 @@ MOVE ALL "2" TO SampleData
 DISPLAY SampleData
 
 STOP RUN. 
-*> 
-*> 
 
 
-
-
- 
-*>  MOVE <apa nak isi> TO <nama variable>
-*> untuk fill varibale dengan data
 
