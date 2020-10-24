@@ -5,3 +5,6 @@
 
 - ACCEPT <variable name>
 - ambik input daru terminal
+
+- MOVE <apa nak isi> TO <nama variable>
+- untuk fill varibale dengan data
