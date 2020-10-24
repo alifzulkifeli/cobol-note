@@ -50,7 +50,5 @@ DISPLAY SampleData
 MOVE ALL "2" TO SampleData
 DISPLAY SampleData
 
-STOP RUN. 
-
-
+STOP RUN.
 
