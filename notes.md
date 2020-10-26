@@ -124,3 +124,9 @@ DISPLAY Ans
 STOP RUN.
 
 ```
+
+## Declare variable to be use in if and for loop
+
+```cob
+
+```
